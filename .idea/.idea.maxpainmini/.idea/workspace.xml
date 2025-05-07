@@ -13,21 +13,7 @@
     <list default="true" id="3d779d2d-0f43-45b0-844c-d6c43d7a53c0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.maxpainmini/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.maxpainmini/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.maxpainmini/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.maxpainmini/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PainEngine.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PainEngine/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PainEngine/Scripts/AI.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PainEngine/Scripts/Core.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PainEngine/Scripts/Core/IHealth.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PainEngine/Scripts/Core/IHealth.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PainEngine/Scripts/Enemies.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PainEngine/Scripts/Player.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PainEngine/Scripts/SaveSystem.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PainEngine/Scripts/SaveSystem/ISaveable.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PainEngine/Scripts/SaveSystem/ISaveable.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PainEngine/Scripts/SaveSystem/SaveData.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PainEngine/Scripts/SaveSystem/SaveData.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PainEngine/Scripts/UI.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PainEngine/Scripts/Utils.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +22,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/MyGame/Scripts/Input/PlayerInputActions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.inputsystem/InputSystem/Actions/InputActionState.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyGame/Scripts/Input/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -46,6 +37,8 @@
         <option value="$PROJECT_DIR$/Assets/PainEngine/Scripts/Projectiles/Bullet.cs" />
         <option value="$PROJECT_DIR$/Assets/PainEngine/Scripts/Player/PlayerMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/PainEngine/Scripts/Enemies/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/MyGame/Scripts/Player/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/MyGame/Scripts/Input/PlayerController.cs" />
       </list>
     </option>
   </component>
@@ -89,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746604971455</updated>
-      <workItem from="1746604978990" duration="1396000" />
+      <workItem from="1746604978990" duration="3670000" />
     </task>
     <servers />
   </component>

@@ -1,11 +1,11 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 using System.IO;
-using MyGame.Core;
-using MyGame.Projectiles;
-using MyGame.SaveSystem;
+using MyGame.MyGame.Core;
+using MyGame.MyGame.Projectiles;
+using MyGame.MyGame.SaveSystem;
 
-namespace MyGame.Player
+namespace MyGame.MyGame.Player
 {
     public class PlayerMovement : MonoBehaviour, IHealth, ISaveable
     {

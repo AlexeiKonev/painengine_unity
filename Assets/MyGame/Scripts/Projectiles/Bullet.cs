@@ -1,7 +1,7 @@
 using UnityEngine;
-using MyGame.Core;
+using MyGame.MyGame.Core;
 
-namespace MyGame.Projectiles
+namespace MyGame.MyGame.Projectiles
 {
     public class Bullet : MonoBehaviour
     {

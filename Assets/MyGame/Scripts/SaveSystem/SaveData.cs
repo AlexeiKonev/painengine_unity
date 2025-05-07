@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace MyGame.SaveSystem
+namespace MyGame.MyGame.SaveSystem
 {
     [System.Serializable]
     public class SaveData

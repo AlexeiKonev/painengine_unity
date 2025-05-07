@@ -1,4 +1,4 @@
-namespace MyGame.Core
+namespace MyGame.MyGame.Core
 {
     public interface IHealth
     {

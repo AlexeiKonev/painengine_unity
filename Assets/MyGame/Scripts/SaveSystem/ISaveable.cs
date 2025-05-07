@@ -1,4 +1,4 @@
-namespace MyGame.SaveSystem
+namespace MyGame.MyGame.SaveSystem
 {
     public interface ISaveable
     {

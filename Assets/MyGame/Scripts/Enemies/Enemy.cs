@@ -1,8 +1,8 @@
 using UnityEngine;
-using MyGame.Core;
-using MyGame.SaveSystem;
+using MyGame.MyGame.Core;
+using MyGame.MyGame.SaveSystem;
 
-namespace MyGame.Enemies
+namespace MyGame.MyGame.Enemies
 {
     public class Enemy : MonoBehaviour, IHealth, ISaveable
     {
